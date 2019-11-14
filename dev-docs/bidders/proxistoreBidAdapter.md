@@ -14,3 +14,7 @@ gdpr_supported: true
 |-------------|----------|--------------------------------------------------------------------------------------------------------------------------------|------------|----------|
 | `website`    | required | Publisher  referrer                                                                                                  | `'example.com'` | `string` |
 | `language` | required | Publisher language for the advertisement | `'fr'`   | `string` |
+
+
+
+Contact: vincent.descamps@proxistore.com
